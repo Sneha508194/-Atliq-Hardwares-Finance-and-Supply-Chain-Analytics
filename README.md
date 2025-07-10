@@ -12,4 +12,4 @@
 ![Report 2](https://github.com/Sneha508194/Excel_Financial_Analytics/blob/main/Business%20Report%20%202.jpg)
 
 ## Business Report 3
-![Report 3](https://github.com/Sivasundar3/Excel_Financial_Analytics/blob/main/Resources/Business%20Report%203.jpg)
+![Report 3](https://github.com/Sneha508194/Excel_Financial_Analytics/blob/main/Business%20Report%203.jpg)
