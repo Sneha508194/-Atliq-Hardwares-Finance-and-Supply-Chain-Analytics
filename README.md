@@ -5,7 +5,7 @@
 ![Data Model](https://github.com/Sneha508194/Excel_Financial_Analytics/blob/main/Data%20model.png)
 
 ## Business Report 1
-![Reports](https://github.com/Sivasundar3/Excel_Financial_Analytics/blob/main/Resources/Business%20Report%201.jpg)
+![Reports](https://github.com/Sneha508194/Excel_Financial_Analytics/blob/main/Business%20Report%201.jpg)
 ![Reports](https://github.com/Sivasundar3/Excel_Financial_Analytics/blob/main/Resources/Business%20Report%201.1.jpg)
 
 ## Business Report 2
